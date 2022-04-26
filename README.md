@@ -3,7 +3,7 @@
 ### Links
 
 [Challenge from FrontendMentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw)\
-[Live site here]()
+[Live site here](https://mgksp-fem-time-tracking-dashboard.netlify.app/)
 
 ### Screenshots
 
