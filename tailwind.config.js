@@ -14,6 +14,7 @@ module.exports = {
 
         dkrBlue: "hsl(226, 43%, 10%)",
         dkBlue: "hsl(235, 46%, 20%)",
+        dkBlueHover: "hsl(235, 46%, 25%)",
         desaturatedBlue: "hsl(235, 45%, 61%)",
         paleBlue: "hsl(236, 100%, 87%)",
       },

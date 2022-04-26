@@ -25,7 +25,7 @@ export default function UserCard({ setTimeFrame }) {
           </h1>
         </div>
       </div>
-      <div className="flex justify-between gap-5 p-7 font-light text-desaturatedBlue md:flex-col md:p-8 md:items-start">
+      <div className="flex justify-between gap-3 p-7 font-light text-desaturatedBlue md:flex-col md:p-8 md:items-start">
         <div
           onClick={() => {
             setActive(timeFrameEnum.DAILY);
